@@ -1,0 +1,13 @@
+*{
+    color: mediumblue;
+}
+#xyz{
+    color: blueviolet;
+}
+div{
+    color: chartreuse;
+}
+.center {
+    text-align: center;
+    color: brown;
+}
