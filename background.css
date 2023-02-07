@@ -1,0 +1,19 @@
+body{
+    
+   /* background-color: cadetblue; */
+   background-image: url("./images/paper.jpg");
+   background-repeat: no-repeat;
+   background-position: 50px;
+   background-size: 250;
+}
+h1{
+    background-color: blueviolet;
+    opacity: 0.3;
+}
+p{   
+    background-color: rgba(210, 105, 30);
+    color: blue;
+}
+div{
+    background-color: azure;
+}

@@ -1,0 +1,31 @@
+p {
+    background-color: rgba(255, 0, 157, 0.123);
+    font-size: small;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  }
+  /* div element selector */
+  div {
+    background-color: aquamarine;
+  }
+  h1 {
+    color: crimson;
+    border: 1px;
+    background-color: darkcyan;
+  }
+  /* id selector */
+  #unique heading {
+    color: red;
+    background-color: aqua;
+    border: 2px solid black;
+  }
+  /* class selector */
+  .centerasd{
+    text-align: center;
+    color: red;
+  }
+  /* universal selector */
+  *{
+    text-align: center;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }

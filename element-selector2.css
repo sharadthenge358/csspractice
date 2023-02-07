@@ -1,0 +1,13 @@
+p {
+    background-color: blue;
+    font-size: small;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  }
+  div {
+    background-color: aquamarine;
+  }
+  h1 {
+    color: crimson;
+    border: 1px;
+    background-color: darkcyan;
+  }
